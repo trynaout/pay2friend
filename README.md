@@ -1,5 +1,5 @@
-Friend2Pay 💸
-Welcome to Friend2Pay, a seamless and secure peer-to-peer payment application. This project provides a full-stack solution for digital wallet functionalities, allowing users to sign up, manage their funds, and send money to friends with ease.
+Pay2Friend 💸
+Welcome to Pay2Friend, a seamless and secure peer-to-peer payment application. This project provides a full-stack solution for digital wallet functionalities, allowing users to sign up, manage their funds, and send money to friends with ease.
 
 Key Features ✨
 Secure User Accounts: Full user authentication and authorization using JSON Web Tokens (JWT) to ensure user data and sessions are always protected.
